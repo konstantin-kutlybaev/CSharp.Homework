@@ -1,0 +1,15 @@
+B:\Git\CSharpEducation\Homework5.Exception\bin\Debug\net8.0\Homework5.Exception.exe
+B:\Git\CSharpEducation\Homework5.Exception\bin\Debug\net8.0\Homework5.Exception.deps.json
+B:\Git\CSharpEducation\Homework5.Exception\bin\Debug\net8.0\Homework5.Exception.runtimeconfig.json
+B:\Git\CSharpEducation\Homework5.Exception\bin\Debug\net8.0\Homework5.Exception.dll
+B:\Git\CSharpEducation\Homework5.Exception\bin\Debug\net8.0\Homework5.Exception.pdb
+B:\Git\CSharpEducation\Homework5.Exception\obj\Debug\net8.0\Homework5.Exception.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git\CSharpEducation\Homework5.Exception\obj\Debug\net8.0\Homework5.Exception.AssemblyInfoInputs.cache
+B:\Git\CSharpEducation\Homework5.Exception\obj\Debug\net8.0\Homework5.Exception.AssemblyInfo.cs
+B:\Git\CSharpEducation\Homework5.Exception\obj\Debug\net8.0\Homework5.Exception.csproj.CoreCompileInputs.cache
+B:\Git\CSharpEducation\Homework5.Exception\obj\Debug\net8.0\Homework5.Exception.sourcelink.json
+B:\Git\CSharpEducation\Homework5.Exception\obj\Debug\net8.0\Homework5.Exception.dll
+B:\Git\CSharpEducation\Homework5.Exception\obj\Debug\net8.0\refint\Homework5.Exception.dll
+B:\Git\CSharpEducation\Homework5.Exception\obj\Debug\net8.0\Homework5.Exception.pdb
+B:\Git\CSharpEducation\Homework5.Exception\obj\Debug\net8.0\Homework5.Exception.genruntimeconfig.cache
+B:\Git\CSharpEducation\Homework5.Exception\obj\Debug\net8.0\ref\Homework5.Exception.dll
