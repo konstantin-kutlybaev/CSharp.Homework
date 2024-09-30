@@ -1,0 +1,15 @@
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\bin\Debug\net8.0\Homework4.PersonnelManagementSystem.exe
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\bin\Debug\net8.0\Homework4.PersonnelManagementSystem.deps.json
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\bin\Debug\net8.0\Homework4.PersonnelManagementSystem.runtimeconfig.json
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\bin\Debug\net8.0\Homework4.PersonnelManagementSystem.dll
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\bin\Debug\net8.0\Homework4.PersonnelManagementSystem.pdb
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\obj\Debug\net8.0\Homework4.PersonnelManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\obj\Debug\net8.0\Homework4.PersonnelManagementSystem.AssemblyInfoInputs.cache
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\obj\Debug\net8.0\Homework4.PersonnelManagementSystem.AssemblyInfo.cs
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\obj\Debug\net8.0\Homework4.PersonnelManagementSystem.csproj.CoreCompileInputs.cache
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\obj\Debug\net8.0\Homework4.PersonnelManagementSystem.sourcelink.json
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\obj\Debug\net8.0\Homework4.PersonnelManagementSystem.dll
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\obj\Debug\net8.0\refint\Homework4.PersonnelManagementSystem.dll
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\obj\Debug\net8.0\Homework4.PersonnelManagementSystem.pdb
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\obj\Debug\net8.0\Homework4.PersonnelManagementSystem.genruntimeconfig.cache
+B:\Git\CSharpEducation\Homework4.PersonnelManagementSystem\obj\Debug\net8.0\ref\Homework4.PersonnelManagementSystem.dll
